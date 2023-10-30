@@ -1,0 +1,6 @@
+name: artemis-facade
+description: Front the Artemis CLI
+dependencies:
+  host:
+    url: github.com/toitlang/pkg-host
+    version: ^1.11.0
